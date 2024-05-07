@@ -1,0 +1,7 @@
+body{
+    background: url(background.jpeg);
+    background-size: cover;
+    color: azure;
+    font-family: "Permanent Marker", cursive;
+    font-size: 20px;
+}
